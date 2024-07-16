@@ -1,6 +1,6 @@
 # UPS-TRACK
 
-
+Stay Connected On-The-Go
 
 <img src="https://github.com/Affrun-Kalyau/UPS-TRACK/blob/main/UPSLOGO.png"/>
 
