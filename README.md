@@ -2,7 +2,7 @@
 
 **TRY UPS TRACK DOWNLOAD NOW**
 
-<img src="https://github.com/Affrun-Kalyau/UPS-TRACK/blob/main/UPSLOGO.png"/>
+<img src="https://github.com/Affrun-Kalyau/UPS-TRACK/blob/main/LOGO1.png"/>
 
 **Stay Connected On-The-Go with UPS Track Download**
 
